@@ -1,2 +1,6 @@
 # hello-world
-Hey
+
+Hey!
+
+This is an example program. 
+It is a starter for the apps4VA Project.
